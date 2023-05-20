@@ -1,8 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-int main()
+void ph()
 {
     printf("Hello world!\n");
-    return 0;
 }
